@@ -110,7 +110,6 @@ function priStiskuKlavesy(udalost) {
 	}
 	// otestujeme kolizi panáčka s mincí
 	otestujKolizi();
-
 }
 // fuknce pro otestování kolize panáčka s mincí
 function otestujKolizi() {
